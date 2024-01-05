@@ -1,0 +1,7 @@
+langchain
+huggingface_hub
+sentence-transformers
+uvicorn
+ctransformers
+python-box
+streamlit
